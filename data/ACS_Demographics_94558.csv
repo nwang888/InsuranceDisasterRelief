@@ -1,0 +1,97 @@
+Label,Estimate,Margin of Error,Percent,Percent Margin of Error
+SEX AND AGE,,,,
+Total population,68617.0,1127.0,68617.0,
+Male,34265.0,803.0,49.9,0.8
+Female,34352.0,738.0,50.1,0.8
+Sex ratio (males per 100 females),99.7,3.1,,
+Under 5 years,3488.0,290.0,5.1,0.4
+5 to 9 years,3511.0,331.0,5.1,0.5
+10 to 14 years,4796.0,341.0,7.0,0.5
+15 to 19 years,4584.0,347.0,6.7,0.5
+20 to 24 years,4112.0,404.0,6.0,0.6
+25 to 34 years,8605.0,511.0,12.5,0.7
+35 to 44 years,8262.0,393.0,12.0,0.5
+45 to 54 years,9526.0,406.0,13.9,0.6
+55 to 59 years,4960.0,343.0,7.2,0.5
+60 to 64 years,4609.0,343.0,6.7,0.5
+65 to 74 years,6947.0,298.0,10.1,0.4
+75 to 84 years,3469.0,279.0,5.1,0.4
+85 years and over,1748.0,245.0,2.5,0.3
+Median age (years),41.8,1.0,,
+Under 18 years,14695.0,611.0,21.4,0.7
+16 years and over,55884.0,899.0,81.4,0.7
+18 years and over,53922.0,879.0,78.6,0.7
+21 years and over,51402.0,908.0,74.9,0.9
+62 years and over,14926.0,506.0,21.8,0.7
+65 years and over,12164.0,429.0,17.7,0.6
+18 years and over,53922.0,879.0,53922.0,
+Male,26832.0,636.0,49.8,0.8
+Female,27090.0,569.0,50.2,0.8
+Sex ratio (males per 100 females),99.0,3.0,,
+65 years and over,12164.0,429.0,12164.0,
+Male,5798.0,229.0,47.7,1.5
+Female,6366.0,331.0,52.3,1.5
+Sex ratio (males per 100 females),91.1,5.5,,
+RACE,,,,
+Total population,68617.0,1127.0,68617.0,
+One race,66405.0,1092.0,96.8,0.6
+Two or More Races,2212.0,432.0,3.2,0.6
+One race,66405.0,1092.0,96.8,0.6
+White,52878.0,1314.0,77.1,1.8
+Black or African American,498.0,159.0,0.7,0.2
+American Indian and Alaska Native,503.0,361.0,0.7,0.5
+Cherokee tribal grouping,7.0,11.0,0.0,0.1
+Chippewa tribal grouping,0.0,29.0,0.0,0.1
+Navajo tribal grouping,42.0,47.0,0.1,0.1
+Sioux tribal grouping,0.0,29.0,0.0,0.1
+Asian,2409.0,446.0,3.5,0.6
+Asian Indian,232.0,202.0,0.3,0.3
+Chinese,308.0,175.0,0.4,0.3
+Filipino,857.0,298.0,1.2,0.4
+Japanese,251.0,135.0,0.4,0.2
+Korean,131.0,70.0,0.2,0.1
+Vietnamese,227.0,239.0,0.3,0.3
+Other Asian,403.0,211.0,0.6,0.3
+Native Hawaiian and Other Pacific Islander,75.0,76.0,0.1,0.1
+Chamorro,0.0,29.0,0.0,0.1
+Native Hawaiian,0.0,29.0,0.0,0.1
+Samoan,25.0,31.0,0.0,0.1
+Other Native Hawaiian and Other Pacific Islander,50.0,71.0,0.1,0.1
+Some Other Race,10042.0,1163.0,14.6,1.6
+Two or More Races,2212.0,432.0,3.2,0.6
+White and Black or African American,112.0,73.0,0.2,0.1
+White and American Indian and Alaska Native,551.0,182.0,0.8,0.3
+White and Asian,543.0,125.0,0.8,0.2
+White and Some Other Race,26.0,33.0,0.0,0.1
+Black or African American and American Indian and Alaska Native,68617.0,1127.0,68617.0,
+Black or African American and Some Other Race,54940.0,1318.0,80.1,1.7
+Race alone or in combination with one or more other races,,,,
+Total population,712.0,196.0,1.0,0.3
+White,1195.0,385.0,1.7,0.6
+Black or African American,3076.0,478.0,4.5,0.7
+American Indian and Alaska Native,264.0,151.0,0.4,0.2
+Asian,10794.0,1236.0,15.7,1.7
+Native Hawaiian and Other Pacific Islander,68617.0,1127.0,68617.0,
+Some Other Race,23540.0,1057.0,34.3,1.3
+HISPANIC OR LATINO AND RACE,,,,
+Total population,21451.0,1120.0,31.3,1.4
+Hispanic or Latino (of any race),232.0,94.0,0.3,0.1
+Mexican,31.0,31.0,0.0,0.1
+Puerto Rican,1826.0,445.0,2.7,0.6
+Cuban,45077.0,920.0,65.7,1.3
+Other Hispanic or Latino,40441.0,776.0,58.9,1.2
+Not Hispanic or Latino,487.0,158.0,0.7,0.2
+White alone,138.0,115.0,0.2,0.2
+Black or African American alone,2329.0,445.0,3.4,0.6
+American Indian and Alaska Native alone,75.0,76.0,0.1,0.1
+Asian alone,321.0,172.0,0.5,0.3
+Native Hawaiian and Other Pacific Islander alone,1286.0,236.0,1.9,0.3
+Some Other Race alone,61.0,67.0,0.1,0.1
+Two or More Races,1225.0,228.0,1.8,0.3
+Two races including Some Other Race,27000.0,362.0,,
+"Two races excluding Some Other Race, and three or more races",46461.0,978.0,46461.0,
+Total housing units,22969.0,678.0,49.4,0.9
+"CITIZEN, VOTING AGE POPULATION",,,,
+"Citizen, 18 and over population",23492.0,602.0,50.6,0.9
+Male,,,,
+Female,,,,
